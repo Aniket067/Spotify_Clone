@@ -1,0 +1,42 @@
+  <div data-folder="Hs" class="card">
+                        <div class="play">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 36 36"
+                                fill="none" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" color="#1ED760">
+                                <circle cx="18" cy="18" r="15" fill="#1ED760" />
+                                <!-- Filled circle with Spotify green color -->
+                                <path d="M13.5 10.5L21 18L13.5 25.5" fill="#000000" transform="translate(1.5, 0)" />
+                                <!-- Centered black play button with translation -->
+                            </svg>
+                        </div>
+                        <img src="covers/1.png" alt="">
+                        <h2>Sleep Nights!</h2>
+                        <p>Gentle Ambient piano to help you fall asleep. </p>
+                    </div>
+                    <div data-folder="Honey" class="card">
+                        <div class="play">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 36 36"
+                                fill="none" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" color="#1ED760">
+                                <circle cx="18" cy="18" r="15" fill="#1ED760" />
+                                <!-- Filled circle with Spotify green color -->
+                                <path d="M13.5 10.5L21 18L13.5 25.5" fill="#000000" transform="translate(1.5, 0)" />
+                                <!-- Centered black play button with translation -->
+                            </svg>
+                        </div>
+                        <img src="covers/1.png" alt="">
+                        <h2>Sleep Nights!</h2>
+                        <p>Gentle Ambient piano to help you fall asleep. </p>
+                    </div>
+                    <div data-folder="hss" class="card">
+                        <div class="play">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 36 36"
+                                fill="none" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" color="#1ED760">
+                                <circle cx="18" cy="18" r="15" fill="#1ED760" />
+                                <!-- Filled circle with Spotify green color -->
+                                <path d="M13.5 10.5L21 18L13.5 25.5" fill="#000000" transform="translate(1.5, 0)" />
+                                <!-- Centered black play button with translation -->
+                            </svg>
+                        </div>
+                        <img src="covers/1.png" alt="">
+                        <h2>Sleep Nights!</h2>
+                        <p>Gentle Ambient piano to help you fall asleep. </p>
+                    </div>
